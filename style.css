@@ -1,0 +1,31 @@
+h1 { 
+background-color: rgb(238, 245, 243); 
+justify-content: 'Center';
+color: brown;
+text-shadow: 2px 2px;
+}
+.header{
+   display: flex;
+    background-image: linear-gradient(rgb(230, 130, 230),yellow,lightpink );
+    Justify-content: center;
+}
+.feather{
+    display:flex;
+    background-image: linear-gradient(orange, yellow);
+    Justify-content: center;
+    align-items: center;  
+}
+.neither{
+    display: flex;
+ background-image: linear-gradient(to bottom right, rgb(11, 197, 230), pink);
+    Justify-content: center ;
+    align-items: center;
+    flex-direction: column;
+}
+.teather{
+    display: flex;
+    background-image: linear-gradient(to right,purple , orange);
+    font-size: xx-large;
+    Justify-content: center;
+    align-items: center;
+}
